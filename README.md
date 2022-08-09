@@ -51,3 +51,21 @@ Now, we want to create a mentorship-eligibilty table that holds the current empl
 
 <img width="615" alt="Screen Shot 2022-08-08 at 5 39 54 PM" src="https://user-images.githubusercontent.com/106577074/183538158-c609d109-8a35-41e2-ab57-b150a9816d2c.png">
 
+# Results 
+
+4 major points from our analysis:
+
+- From our analysis, about 72, 458 employees are retiring. The titles and breakdown of the department staff is shown below in Figure 4. 
+
+Figure 4: Retiring Titles 
+
+<img width="206" alt="Screen Shot 2022-08-08 at 5 46 57 PM" src="https://user-images.githubusercontent.com/106577074/183538823-ba3679fd-baf5-4aeb-8f55-35d2789729ad.png">
+
+- the two departments which will face a impactful difference is Senior Engineer and Senior Staff
+- The engineering department will be effected the most 
+- 1, 941 employees are eligible for the mentorship program 
+
+# Summary 
+
+According to the retirement table, about 133, 777 employees are to be retiring soon. Moreover, there aren't enough retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees as there are 1, 941 who are eligible to partcipate in the mentorship program. 
+
